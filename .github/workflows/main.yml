@@ -1,0 +1,3 @@
+name: A workflow for my Merge.tar.gz
+
+on: push
