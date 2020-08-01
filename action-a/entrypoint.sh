@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
-tar -zxvf merge.tar.gz .
+tar xvzf merge.tar.gz grab
 
