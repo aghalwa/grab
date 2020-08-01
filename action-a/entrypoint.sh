@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
-tar -zxvf merge.tar.gz /EPG
+tar -zxvf merge.tar.gz .
 
